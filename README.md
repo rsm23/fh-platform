@@ -19,7 +19,7 @@ If you'd like to get involded Florida Hackers and how to make it a better commun
 To run the site in development mode, you'll need node installed. Then simply open up a terminal and run this command to start up a server in development mode at `http://localhost:8080/`
 
 ```
-npm run start
+npm insall && npm run start
 ```
 
 ##### Production build
